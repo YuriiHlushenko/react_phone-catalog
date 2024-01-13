@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.311434ac.css",
-    "main.js": "./static/js/main.4a76d258.js",
+    "main.css": "./static/css/main.5501c510.css",
+    "main.js": "./static/js/main.b3af4ec4.js",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.bb5be820e5eb072d5758.ttf",
+    "static/media/Banner2.png": "./static/media/Banner2.667556c4526691bb38b7.png",
     "static/media/Banner.png": "./static/media/Banner.6aba00f4908dda1c6ad9.png",
+    "static/media/Banner3.png": "./static/media/Banner3.aa371250b8cdfae80cb5.png",
     "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.4c05cd9bfc1270fb1cd0.ttf",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
@@ -14,11 +16,11 @@
     "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.6b0efc2420efff557025.ttf",
     "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.62590c81afe6966dda05.woff2",
     "index.html": "./index.html",
-    "main.311434ac.css.map": "./static/css/main.311434ac.css.map",
-    "main.4a76d258.js.map": "./static/js/main.4a76d258.js.map"
+    "main.5501c510.css.map": "./static/css/main.5501c510.css.map",
+    "main.b3af4ec4.js.map": "./static/js/main.b3af4ec4.js.map"
   },
   "entrypoints": [
-    "static/css/main.311434ac.css",
-    "static/js/main.4a76d258.js"
+    "static/css/main.5501c510.css",
+    "static/js/main.b3af4ec4.js"
   ]
 }
